@@ -182,6 +182,6 @@ h2 {
   box-sizing: border-box;
   background-color: lightblue;
   background-clip: content-box, padding-box;
-  padding: 10% 20%;
+  padding: 60px;
 }
 /* END QUESTION 6 */
